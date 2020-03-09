@@ -67,7 +67,7 @@ main{
 @media (max-width: 768px) {
   main {
     width: 100%;
-    margin: 50px auto;
+    margin: 50pxれ auto;
   }
   .main-box {
     padding: 0 5%;
